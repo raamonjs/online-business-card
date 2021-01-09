@@ -34,6 +34,7 @@ h1 {
 /* image size to align with width of content */
 img {
   width: 500px;
+  height: 275px;
 }
 
 /* aligning appropriate texts to the left  */
